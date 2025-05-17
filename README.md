@@ -21,10 +21,6 @@ A modern web-based library management system built with React, TypeScript, and T
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
 
 ### Installation
 
